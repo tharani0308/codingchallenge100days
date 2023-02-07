@@ -1,4 +1,5 @@
 //Integer to Roman
+//https://leetcode.com/problems/integer-to-roman/submissions/893327405/
 class Solution {
 public:
     string intToRoman(int a) {
@@ -17,6 +18,7 @@ public:
 
 
 //Binary String Cost
+//https://www.codechef.com/problems/BSCOST?tab=statement
 #include <iostream>
 using namespace std;
 
